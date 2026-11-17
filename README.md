@@ -1,4 +1,5 @@
-# Hi, I'm Gonçalo 👋
+# Gonçalo Raposo
+### Engineering × Data × AI
 
 **Mechanical Engineering · Programming · Industrial Data**
 

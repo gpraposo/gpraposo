@@ -12,13 +12,6 @@ I enjoy understanding how things work — from industrial equipment to the code 
 - **Industrial analytics:** exploring maintenance data, operational performance and dashboards.
 - **Practical projects:** connecting engineering problems with software and data.
 
-### Projects
-
-| Project | What I'm learning |
-| :--- | :--- |
-| **Libft** | Building a C library from scratch: strings, memory, pointers and linked lists. |
-| **Offshore Analytics** | Exploring costs and availability with synthetic data, Python, SQL and an interactive dashboard. |
-
 ### Tools & learning
 
 **Programming:** C · Git · Linux  

@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Gonçalo 👋
 
-<!--
-**gpraposo/gpraposo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mechanical Engineering · Programming · Industrial Data**
 
-Here are some ideas to get you started:
+Based in Porto, Portugal. I'm a Mechanical Engineer studying at **42 Porto**, bringing experience in industrial maintenance, digitalization and reporting into my programming journey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy understanding how things work — from industrial equipment to the code behind a solution.
+
+### Currently working on
+
+- **42 Common Core:** developing my foundations in C, algorithms and memory management.
+- **Industrial analytics:** exploring maintenance data, operational performance and dashboards.
+- **Practical projects:** connecting engineering problems with software and data.
+
+### Projects
+
+| Project | What I'm learning |
+| :--- | :--- |
+| **Libft** | Building a C library from scratch: strings, memory, pointers and linked lists. |
+| **Offshore Analytics** | Exploring costs and availability with synthetic data, Python, SQL and an interactive dashboard. |
+
+### Tools & learning
+
+**Programming:** C · Git · Linux  
+**Data & reporting:** Power BI · Excel  
+**Currently exploring:** Python · SQL
+
+### Background
+
+🎓 MSc in Mechanical Engineering — FEUP  
+💻 Common Core student — 42 Porto  
+🏭 Experience in maintenance, industrial digitalization and quality reporting
+
+---
+
+*Understanding systems. Building skills. Connecting engineering with code.*
